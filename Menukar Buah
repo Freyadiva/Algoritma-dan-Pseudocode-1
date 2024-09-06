@@ -1,5 +1,0 @@
-Pseudocode menukar buah dari dua piring
-define swap(x, y)
-buffer = x
-x = y
-y = buffer
