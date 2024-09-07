@@ -21,10 +21,10 @@ Selesai
 
 
 Pseudocode menukar buah di dua piring
-define swap(x, y)
-buffer = x
-x = y
-y = buffer
+Menuliskan fungsi swap (piring1, piring2)
+piring3 = piring1
+piring1 = piring2
+piring2 = piring 3
 
 
 Pseudocode segitiga
